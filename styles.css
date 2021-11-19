@@ -1,0 +1,26 @@
+.upperpart{
+    background-image: url(./images/background.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 50px;
+    padding-bottom: 70px;
+    
+}
+.website{
+    font-size: 50px;
+    color:white;
+    text-align: center;
+    opacity: 80%;
+    border-top: 20px;
+    background-color: black;
+    border: dotted rgb(41, 21, 155) 5px;
+    
+}
+.card{
+    opacity: 75%;
+}
+.col-lg-4 ul{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
